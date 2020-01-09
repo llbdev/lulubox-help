@@ -1,41 +1,39 @@
-Template
+
+About
 ========
 
-$project will solve your problem of where to start with documentation,
-by providing a basic explanation of how to do it easily.
-
+Lulubox is an android application that we can use to unlock features in the game.
 Look how easy it is to use:
 
-    import project
-    # Get your stuff done
-    project.do_stuff()
+    install the app
+    open it
+    select your game
 
 Features
 --------
 
-- Be awesome
-- Make things faster
+ - Manage all your games
+ - Has many plug-ins that you can use in the game.
+ - Interaction design is very easy to use
+ - Increased game and rank
 
 Installation
 ------------
 
-Install $project by running:
-
-    install project
+Install lulubox just like the others app
 
 Contribute
 ----------
 
-- Issue Tracker: github.com/$project/$project/issues
-- Source Code: github.com/$project/$project
+- Lulubox dev team
 
 Support
 -------
 
 If you are having issues, please let us know.
-We have a mailing list located at: project@google-groups.com
+Submit your questions on the app.
 
 License
 -------
 
-The project is licensed under the BSD license.
+Free.
